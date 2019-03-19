@@ -7,5 +7,17 @@
         <parameter value="E:\Java\idea-workspace\bigdata21\spark-demo\target/.scala_dependencies" />
       </parameters>
     </profile>
+    <profile name="Maven 2" modules="scala-day03">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Java\idea-workspace\bigdata21\spark-demo\scala-day03\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="scala-day02-wordCount">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Java\idea-workspace\bigdata21\spark-demo\scala-day02-wordCount\target/.scala_dependencies" />
+      </parameters>
+    </profile>
   </component>
 </project>

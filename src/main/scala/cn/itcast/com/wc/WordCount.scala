@@ -39,7 +39,7 @@ object WordCount {
 
 //    finalResult.foreach(x=>println(x._1+"\t"+x._2))
 
-    result.saveAsTextFile(args(0))
+    result.saveAsTextFile(args(1))
     //释放资源
     sc.stop()
 
