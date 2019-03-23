@@ -11,6 +11,8 @@
     <modules>
         <module>scala-day03</module>
         <module>scala-day02-wordCount</module>
+        <module>hbase-day01</module>
+        <module>hbase-day02</module>
     </modules>
 
     <name>A Camel Scala Route</name>
